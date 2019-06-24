@@ -1,6 +1,6 @@
 # vue-vc
 vue环形进度条bug修改
-# 原插件 vue-vue-circleprogressbar
+# 原插件 vue-circleprogressbar
 
 beforeDestroy() {
     // 清除旧组件的样式标签
